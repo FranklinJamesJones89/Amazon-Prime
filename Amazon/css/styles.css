@@ -1,0 +1,180 @@
+body {
+    margin:0;
+    padding: 0;
+    background-color: rgb(15, 17, 17);
+
+}
+
+h5 {
+    font-size: 1em;
+}
+
+/* Navbar */
+
+.first-navbar {
+    background-color: rgb(15, 17, 17);
+
+}
+
+.nav-links {
+    color: white;
+    text-align: center;
+    font-size: .85em;
+}
+
+.icons {
+    color: white;
+}
+
+.logo {
+    width: 40%;
+}
+
+.search-bar {
+    height: 3em;
+    width: 50em;
+    margin-left: -120px;
+
+}
+
+.search-btn {
+    height: 55px;
+    width: 10%;
+    border-top-left-radius: 5%;
+    border-bottom-left-radius: 5%;
+}
+
+.second-navbar {
+    background-color:rgb(35, 47, 62);
+}
+
+.third-navbar {
+    background-color: rgb(27, 37, 48);
+}
+
+.nav-item {
+    margin-left: 10px;
+}
+
+/* Header Carousel */
+
+.carousel-headers {
+    color: white;
+    font-size: 1.25em;
+    margin: 2% 2% 1%;
+}
+
+/* Carousel Previews */
+
+.movie-img {
+    cursor: pointer;
+    margin: 2% 1%;
+}
+
+.edit {
+    float: right;
+    margin-right: 5%;
+    color: rgb(121, 184, 243);
+    cursor: pointer;
+}
+
+.blue-prime {
+    margin-left: 1%;
+    font-size: 2em;
+    color: rgb(121, 184, 243);
+    margin-top: 50px;
+}
+
+.see-more {
+    text-decoration: none;
+    color:rgb(121, 184, 243);
+    font-size: .80em;
+}
+
+.the-boys-img {
+    cursor: pointer;
+    width:  24em;
+    height: 10em;
+}
+
+.your-channels-img {
+    cursor: pointer;
+    width: 24em;
+    height: 10em;
+}
+
+.movies-you-like-img {
+    cursor: pointer;
+    width: 16em;
+    height: 10em;
+}
+
+.movies-you-like2 {
+    margin-top: -2%;
+}
+
+/* Channels Prime Day Deals */
+
+.prime-day-deals-img {
+    cursor: pointer;
+    width: 25rem;
+    height: 12em;
+
+}
+
+.shudder-img {
+    margin-left: 2%;
+}
+
+.prime-deals-img {
+    width: 32rem;
+}
+
+.store-prime-deals-header {
+    color: rgb(255, 167, 36);
+    font-size: 1.5rem;
+    margin: 2% 2% 1%;
+}
+
+.footer-btn {
+    margin-top: 3%;
+    background-color: rgb(15, 17, 17);
+    border: #37475A solid 1px;
+    margin: 5% 2% 5% 2%;
+    height: 3em;
+}
+
+.back-to-top {
+    color: #fff;
+    text-align: center;
+    height: 3em;
+    background-color: #37475A;
+    font-size: .75em;
+    padding: .5%;
+
+}
+
+.footer {
+    background-color: rgb(35, 47, 62);
+    
+}
+
+.footer-list {
+    margin-top: 5%;
+    color: white;
+    text-align: center;
+    list-style: none;
+
+}
+
+.footer-list a {
+    list-style: none;
+    text-decoration: none;
+    color: rgb(221, 221, 221);
+    font-size: .80em;
+}
+
+hr {
+    color: rgb(121, 184, 243);
+}
+
